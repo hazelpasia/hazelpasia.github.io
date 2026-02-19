@@ -2,7 +2,7 @@
 body {
     margin: 0;
     font-family: 'Merriweather', serif;
-    background-color: #FFC5D3;
+    background-color: #ffc5d3;
     color: #333;
     overflow-x: hidden;
 }
@@ -150,6 +150,7 @@ footer {
     from {opacity:0; transform: translateY(30px);}
     to {opacity:1; transform: translateY(0);}
 }
+
 
 
 
