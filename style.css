@@ -8,7 +8,7 @@ body {
 
 /* HEADER */
 header {
-    background: linear-gradient(to right, #ffd1dc, #ffd1dc);
+    background-color: #ffd1dc;
     color: white;
     padding: 40px 20px;
     text-align: center;
@@ -149,6 +149,7 @@ footer {
     from {opacity:0; transform: translateY(30px);}
     to {opacity:1; transform: translateY(0);}
 }
+
 
 
 
